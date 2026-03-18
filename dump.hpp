@@ -3,7 +3,7 @@
 #define OFFSET unsigned long long
 
 namespace OFF {
-    namespace Mics {
+    namespace Misc {
         OFFSET CHLClient = 0x29bd348;
         OFFSET ClientState = 0x304220;
         OFFSET EntityList = 0x644d138;
